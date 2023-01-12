@@ -3,13 +3,16 @@
 
 ## 풀어볼 문제들
 
-### 🍉 난이도(하)
+### 🍉 난이도(하)\
++ A - (S4) [수들의 합 2](https://www.acmicpc.net/problem/2003)
++ C - (B1) [피보나치 수 2](https://www.acmicpc.net/problem/2748)
+
 ### 🌲 난이도(중)
 ### 🔥 난이도(상)
 
 ### ❓ 난이도 미책정
-+ A - (S4) [수들의 합 2](https://www.acmicpc.net/problem/2003)
-+ C - (B1) [피보나치 수 2](https://www.acmicpc.net/problem/2748)
+
+
 + E - (G4) [부분합](https://www.acmicpc.net/problem/1806)
 + F - (G5) [내려가기](https://www.acmicpc.net/problem/2096)
 + G - (G3) [두 배열의 합](https://www.acmicpc.net/problem/2143)
