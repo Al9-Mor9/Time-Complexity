@@ -1,9 +1,13 @@
 # Time-Complexity
 시간 복잡도를 알아봅시다
 
+## 풀어볼 문제들
 
+### 🍉 난이도(하)
+### 🌲 난이도(중)
+### 🔥 난이도(상)
 
-
+### ❓ 난이도 미책정
 + A - [수들의 합 2](https://www.acmicpc.net/problem/2003)
 + C - [피보나치 수 2](https://www.acmicpc.net/problem/2748)
 + E - [부분합](https://www.acmicpc.net/problem/1806)
