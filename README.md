@@ -3,7 +3,7 @@
 
 ## 풀어볼 문제들
 
-### 🍉 난이도(하)\
+### 🍉 난이도(하)
 + A - (S4) [수들의 합 2](https://www.acmicpc.net/problem/2003)
 + C - (B1) [피보나치 수 2](https://www.acmicpc.net/problem/2748)
 
