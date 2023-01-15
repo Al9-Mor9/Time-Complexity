@@ -6,13 +6,12 @@
 ### 🍉 난이도(하)
 + A - (S4) [수들의 합 2](https://www.acmicpc.net/problem/2003)
 + C - (B1) [피보나치 수 2](https://www.acmicpc.net/problem/2748)
++ H - (S3) [게임](https://www.acmicpc.net/problem/1072)
 
 ### 🌲 난이도(중)
 ### 🔥 난이도(상)
 
 ### ❓ 난이도 미책정
-
-
 + E - (G4) [부분합](https://www.acmicpc.net/problem/1806)
 + F - (G5) [내려가기](https://www.acmicpc.net/problem/2096)
 + G - (G3) [두 배열의 합](https://www.acmicpc.net/problem/2143)
@@ -21,4 +20,3 @@
 + K - (P5) [최솟값 찾기](https://www.acmicpc.net/problem/11003)
 + B - (S2) [나무 자르기](https://www.acmicpc.net/problem/2805)
 + D - (P4) [달리기](https://www.acmicpc.net/problem/2517)
-+ H - (S3) [게임](https://www.acmicpc.net/problem/1072)
