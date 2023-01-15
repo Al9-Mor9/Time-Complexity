@@ -22,6 +22,6 @@
 
 
 ### :grey_question: 중복되는 문제들
-+ B - 나무 자르기
-+ D - 달리기
-+ H - 게임
++ B - (S2) [나무 자르기](https://www.acmicpc.net/problem/2805)
++ D - (P4) [달리기](https://www.acmicpc.net/problem/2517)
++ H - (S3) [게임](https://www.acmicpc.net/problem/1072)
