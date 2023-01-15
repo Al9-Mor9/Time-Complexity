@@ -19,9 +19,6 @@
 + I - (G2) [합이 0인 네 정수](https://www.acmicpc.net/problem/7453)
 + J - (P5) [집배원 한상덕](https://www.acmicpc.net/problem/2842)
 + K - (P5) [최솟값 찾기](https://www.acmicpc.net/problem/11003)
-
-
-### :grey_question: 중복되는 문제들
 + B - (S2) [나무 자르기](https://www.acmicpc.net/problem/2805)
 + D - (P4) [달리기](https://www.acmicpc.net/problem/2517)
 + H - (S3) [게임](https://www.acmicpc.net/problem/1072)
