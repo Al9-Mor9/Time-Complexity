@@ -8,10 +8,11 @@ l = 1
 r = max(tree)
 
 while l <= r:
-    
     mid = (l + r)//2
     s = [x for x in tree if x > mid]
     v = sum(s) - len(s) * mid
+    print(l, mid, r, v, m)
+
 
     if v > m:
         l = mid + 1
