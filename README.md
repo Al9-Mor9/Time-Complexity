@@ -6,7 +6,7 @@
 ### 🍉 난이도(하)
 + A - (S4) ~~[p2003 수들의 합 2](https://www.acmicpc.net/problem/2003) (:star:)~~<img src = "https://github.com/wocjs.png" width="25" height="25"><img src = "https://github.com/sulogc.png" width="25" height="25"><img src = "https://github.com/Haaarimmm.png" width="25" height="25"><img src = "https://github.com/Frog-Slayer.png" width="25" height="25">
 + C - (B1) [p2748 피보나치 수 2](https://www.acmicpc.net/problem/2748) (:star:)
-+ H - (S3) [p1072 게임](https://www.acmicpc.net/problem/1072)
++ H - (S3) [p1072 게임](https://www.acmicpc.net/problem/1072)<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">
 + B - (S2) ~~[p2805 나무 자르기](https://www.acmicpc.net/problem/2805)~~<img src = "https://github.com/Haaarimmm.png" width="25" height="25"><img src = "https://github.com/sulogc.png" width="25" height="25"><img src = "https://github.com/wocjs.png" width="25" height="25"><img src = "https://github.com/Frog-Slayer.png" width="25" height="25">
 
 ### 🌲 난이도(중)
